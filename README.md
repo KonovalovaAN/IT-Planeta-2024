@@ -17,7 +17,7 @@
 
 #### 1) Скопируйте приложение:
 ```
-git clone https://github.com/Nikolay-Bezmen/weather-history.git
+git clone https://github.com/KonovalovaAN/IT-Planeta-2024.git
 ```
 #### 2) Перейдите в корневую папку проекта.
 #### 3) Выполните команду :
